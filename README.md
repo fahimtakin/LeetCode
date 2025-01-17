@@ -1,7 +1,7 @@
 **Leetcode Problems**
 
 
-101-SymmetricTree
+101 - SymmetricTree
 
 108-ConvertSortedArrayToBinarySearchTree
 
