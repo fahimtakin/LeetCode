@@ -5,7 +5,7 @@
 
 108 - ConvertSortedArrayToBinarySearchTree
 
-112-PathSum
+112 - PathSum
 
 118-Pascal'sTriangle
 
