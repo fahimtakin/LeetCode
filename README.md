@@ -7,7 +7,7 @@
 
 112 - PathSum
 
-118-Pascal'sTriangle
+118 - Pascal'sTriangle
 
 131-SingleNumber
 
