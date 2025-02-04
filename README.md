@@ -9,7 +9,7 @@
 
 118 - Pascal'sTriangle
 
-131-SingleNumber
+131 - SingleNumber
 
 14-LongestCommonPrefix
 
